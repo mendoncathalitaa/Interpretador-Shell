@@ -5,7 +5,7 @@
 #include <sys/wait.h>
 
 #define TAMANHO 512
-#define MAXARGS 63
+#define MAXARGS 63 
 #define SAIDA "quit"
 
 int main(void){
