@@ -1,6 +1,5 @@
 # Interpretador-Shell
 
-Readme
 
 Disciplina: SIN 351 - Sistemas Operacionais
 Professor: Rodrigo Moreira
